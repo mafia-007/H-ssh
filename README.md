@@ -21,8 +21,7 @@ usage:
  Automatic search for GitHub.                                                            
 
  + Autor: Danilo Vaz a.k.a. UNK
- + Blog: http://unk-br.blogspot.com
- + Github: http://github.com/mafia-007/H-ssh
+ + Github: http://github.com/mafia-007
  + Gr33tz: l33t0s, RTFM
 
  +[WARNING]------------------------------------------+
