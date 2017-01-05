@@ -2,7 +2,7 @@
 
 ### INSTALL
 ```
-git clone http://github.com/danilovazb/GitMiner
+git clone http://github.com/mafia-007/H-ssh
 
 sudo apt-get install python-requests python-lxml 
 OR
