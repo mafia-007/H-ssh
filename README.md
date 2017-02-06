@@ -50,7 +50,7 @@ Searching for wordpress configuration files with passwords:
 ```
 $:> python git_miner.py -q 'filename:wp-config extension:php FTP_HOST in:file ' -m wordpress -o result.txt
 ```
-![Screenshot](https://2.bp.blogspot.com/-GbpzROiEynQ/VtLytfMqQiI/AAAAAAAAbnk/5hDphP4Mbf4/s1600/wordpressEX.png)
+
 
 Looking for brasilian government files containing passwords:
 ```
@@ -66,5 +66,5 @@ Searching for joomla configuration files with passwords:
 ```
 $:> python git_miner.py --query 'filename:configuration extension:php "public password" in:file' -m joomla
 ```
-![Screenshot](https://3.bp.blogspot.com/-1AsNmFKfsoA/VtLyvJFy2WI/AAAAAAAAbno/C7xTbxtzOo8/s1600/joomlaEX.png)
+
 
